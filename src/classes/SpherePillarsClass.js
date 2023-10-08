@@ -1,7 +1,7 @@
 /*
-*   FileName: SpherePillarsClass.js
-*   Sound Pillars Project created by Jesus Perez Arias, created on October 2023.
-*   Jesus' GitHub projects hosted at https://github.com/JayDevelops
+* FileName: SpherePillarsClass.js
+* Sound Pillars Project created by Jesus Perez Arias, created on October 2023.
+* Jesus' GitHub projects hosted at https://github.com/JayDevelops
 *
 * */
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';

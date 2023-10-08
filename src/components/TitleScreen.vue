@@ -8,6 +8,9 @@
       <p>
         Modeled and programmed by <a href="https://www.jesusperez.dev/" target="_blank">Jesus Perez</a>.
       </p>
+      <p>
+        Source code available on <a href="https://github.com/JayDevelops/sound-pillars" target="_blank">GitHub.</a>
+      </p>
     </div>
     <div class="buttons">
       <button
